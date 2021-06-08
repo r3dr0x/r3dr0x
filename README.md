@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Bekci</h1>
+<h1 align="center">Merhaba 👋, Ben Bekçi</h1>
 <h3 align="center">Yazılım Öğrencisi</h3>
 
 <p align="left"> <a href="https://twitter.com/r3d_r0" target="blank"><img src="https://img.shields.io/twitter/follow/r3d_r0?logo=twitter&style=for-the-badge" alt="r3d_r0" /></a> </p>
