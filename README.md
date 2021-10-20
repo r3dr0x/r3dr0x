@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/r3d_r0" target="blank"><img src="https://img.shields.io/twitter/follow/r3d_r0?logo=twitter&style=for-the-badge" alt="r3d_r0" /></a> </p>
 
-- 🔭 Üzerinde Çalıştığım Proje [Human Resource Management System](https://github.com/r3dr0x/hrms)
+- 🔭 Üzerinde Çalıştığım Proje [Yeni Kamp Projesi](https://github.com/r3dr0x/js-camp)
 
-- 🌱 Şu anda öğrendiklerim **JAVA,React**
+- 🌱 Şu anda öğrendiklerim **JavaScript**
 
 - 👨‍💻 Bütün Proelerime Ulaşabileceğiniz Link [https://github.com/r3dr0x](https://github.com/r3dr0x)
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/r3d_r0" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.o35jufKZUaZ6wVQ8SViKxgHaER%26pid%3DApi&f=1" alt="r3d_r0" height="30" width="40" /></a>
 <a href="https://instagram.com/b5kci" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F09%2Fa1%2F91%2F09a191c3a5d3edc0e71c92e8eee5e039.jpg&f=1&nofb=1" alt="b5kci" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bekçi" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2020%2F05%2F1200px-YouTube_logo.png&f=1&nofb=1" alt="bekçi" height="30" width="40" /></a>
-<a href="https://discord.gg/Bekci'#3930" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Ffamous-logos-in-orange%2F512%2Flogo_orange_Discord-73-512.png&f=1&nofb=1" alt="Bekçi'#3990" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpBH6Z9FwNfp_ROEBSc9u_Q" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2020%2F05%2F1200px-YouTube_logo.png&f=1&nofb=1" alt="bekçi" height="30" width="40" /></a>
+<a href="https://discord.gg/ʙᴇᴋᴄɪ'#8891" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Ffamous-logos-in-orange%2F512%2Flogo_orange_Discord-73-512.png&f=1&nofb=1" alt="Bekçi'#3990" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
