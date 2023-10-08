@@ -1,15 +1,15 @@
-<h1 align="center">Merhaba 👋, Ben Bekçi</h1>
+<h1 align="center">Merhaba 👋, Ben Ömer</h1>
 <h3 align="center">Yazılım Öğrencisi</h3>
 
 <p align="left"> <a href="https://twitter.com/r3d_r0" target="blank"><img src="https://img.shields.io/twitter/follow/r3d_r0?logo=twitter&style=for-the-badge" alt="r3d_r0" /></a> </p>
 
 - 🔭 Üzerinde Çalıştığım Proje [Yeni Kamp Projesi](https://github.com/r3dr0x/js-camp)
 
-- 🌱 Şu anda öğrendiklerim **JavaScript**
+- 🌱 Şu anda öğrendiklerim **PHP & API**
 
 - 👨‍💻 Bütün Proelerime Ulaşabileceğiniz Link [https://github.com/r3dr0x](https://github.com/r3dr0x)
 
-- 📫 Ulaşım Adresim **err0ylmaz@yandex.com**
+- 📫 Ulaşım Adresim **info@omerfarukbasar.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
